@@ -1,0 +1,3 @@
+﻿[*.cs]
+# S1144: Unused private types or members should be removed
+dotnet_diagnostic.S1144.severity = none
